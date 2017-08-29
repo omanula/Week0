@@ -6,8 +6,9 @@ namespace Week0
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World");
             Console.ReadLine();
+
         }
     }
 }
